@@ -28,7 +28,7 @@ The app provides a clean, intuitive interface for image upload operations with r
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LaithMahdi/flutter-example-upload-image
    cd upload_image
    ```
 
@@ -131,7 +131,7 @@ Create or update the `.env` file in the project root:
 
 ```env
 # API Configuration
-BASE_URL=https://api.mariage.com.tn
+BASE_URL=https://your-api-server.com/api
 
 # Optional: Add other configuration as needed
 # API_KEY=your_api_key_here
